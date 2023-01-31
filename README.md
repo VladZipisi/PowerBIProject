@@ -20,7 +20,11 @@ Some other university projects:
 <img width="603" alt="Screenshot 2023-01-31 at 16 42 34" src="https://user-images.githubusercontent.com/124059871/215791489-ae846cee-f831-49af-972b-e94aec25c442.png">
 
 
+
 2.Management of a sport shoes store (pl/sql blocks, cursors, functions, procedures)
-<img width="603" alt="Screenshot 2023-01-31 at 16 37 43" src="https://user-images.githubusercontent.com/124059871/215791056-18a11e92-662a-4127-82dd-d3178a68f50a.png">
-<img width="603" alt="Screenshot 2023-01-31 at 16 37 52" src="https://user-images.githubusercontent.com/124059871/215791064-3d07e301-a019-4316-9aec-<img width="603" alt="Screenshot 2023-01-31 at 16 38 18" src="https://user-images.githubusercontent.com/124059871/215791307-93936ee0-68c1-4f77-9c9a-4b2e8206bcb5.png">
-8e0026937833.png">
+
+
+
+<img width="603" alt="Screenshot 2023-01-31 at 16 37 43" src="https://user-images.githubusercontent.com/124059871/215791726-5ca95050-5b9f-4134-ade5-28bf55e23189.png">
+<img width="603" alt="Screenshot 2023-01-31 at 16 37 52" src="https://user-images.githubusercontent.com/124059871/215791740-0330fbb7-eb8c-4687-910d-281392d7261c.png">
+<img width="603" alt="Screenshot 2023-01-31 at 16 38 18" src="https://user-images.githubusercontent.com/124059871/215791746-223d3f1c-2b76-43e3-b90f-c279d96c1948.png">
