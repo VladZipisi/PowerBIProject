@@ -6,3 +6,8 @@ Some of the tasks are:
 -dashboards with specific visualisations for certain information
 -pivot table in EXCEL along Data Model and Excel in MAC
 -dashboard created in PowerBI
+![1](https://user-images.githubusercontent.com/124059871/215784886-b81b46f3-7d7b-4a15-bcb3-a9e409ead7bf.png)
+![2](https://user-images.githubusercontent.com/124059871/215784902-8f5db2a0-6a06-4803-9d0e-a8decac53d7a.png)
+![3](https://user-images.githubusercontent.com/124059871/215784905-89313992-33b2-44d0-a978-e766e225779a.png)
+![4](https://user-images.githubusercontent.com/124059871/215784914-a6a0e0aa-cc9d-4515-aed1-af5f9dce1ed9.png)
+![Dashboard PowerBI](https://user-images.githubusercontent.com/124059871/215784927-e0f2609a-ce38-4e33-aab0-d287b378df1d.png)
