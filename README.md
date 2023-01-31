@@ -12,9 +12,15 @@ Some of the tasks are:
 ![4](https://user-images.githubusercontent.com/124059871/215784914-a6a0e0aa-cc9d-4515-aed1-af5f9dce1ed9.png)
 ![Dashboard PowerBI](https://user-images.githubusercontent.com/124059871/215784927-e0f2609a-ce38-4e33-aab0-d287b378df1d.png)
 <img width="1440" alt="Screenshot 2023-01-31 at 16 32 12" src="https://user-images.githubusercontent.com/124059871/215790931-96571c05-11a0-4289-b571-3611025e0486.png">
+
 Some other university projects:
+
 1.Multidimensional analysis on the impact of the new online educational system from Bangdladesh (descriptive analysis, cluster analysis and discriminant analysis performed in Sas Studio)
 <img width="603" alt="Screenshot 2023-01-31 at 16 36 07" src="https://user-images.githubusercontent.com/124059871/215791026-86da46b8-5443-40a4-abc7-d3970bce71ca.png">
+<img width="603" alt="Screenshot 2023-01-31 at 16 42 34" src="https://user-images.githubusercontent.com/124059871/215791489-ae846cee-f831-49af-972b-e94aec25c442.png">
+
+
 2.Management of a sport shoes store (pl/sql blocks, cursors, functions, procedures)
 <img width="603" alt="Screenshot 2023-01-31 at 16 37 43" src="https://user-images.githubusercontent.com/124059871/215791056-18a11e92-662a-4127-82dd-d3178a68f50a.png">
-<img width="603" alt="Screenshot 2023-01-31 at 16 37 52" src="https://user-images.githubusercontent.com/124059871/215791064-3d07e301-a019-4316-9aec-8e0026937833.png">
+<img width="603" alt="Screenshot 2023-01-31 at 16 37 52" src="https://user-images.githubusercontent.com/124059871/215791064-3d07e301-a019-4316-9aec-<img width="603" alt="Screenshot 2023-01-31 at 16 38 18" src="https://user-images.githubusercontent.com/124059871/215791307-93936ee0-68c1-4f77-9c9a-4b2e8206bcb5.png">
+8e0026937833.png">
