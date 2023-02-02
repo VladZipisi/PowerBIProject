@@ -19,6 +19,7 @@ Skills Utilized:
 ![3](https://user-images.githubusercontent.com/124059871/215784905-89313992-33b2-44d0-a978-e766e225779a.png)
 ![4](https://user-images.githubusercontent.com/124059871/215784914-a6a0e0aa-cc9d-4515-aed1-af5f9dce1ed9.png)
 ![Dashboard PowerBI](https://user-images.githubusercontent.com/124059871/215784927-e0f2609a-ce38-4e33-aab0-d287b378df1d.png)
+
 Pizzeria PROJECT made using EXCEL on MAC (Displayed Graph using XLOOKUP function)
 <img width="1440" alt="Screenshot 2023-01-31 at 16 32 12" src="https://user-images.githubusercontent.com/124059871/215790931-96571c05-11a0-4289-b571-3611025e0486.png">
 Proiect.xlsx made using EXCEL Data Model
