@@ -25,4 +25,4 @@ Pizzeria PROJECT made using EXCEL on MAC (Displayed Graph using XLOOKUP function
 Proiect.xlsx made using EXCEL Data Model
 <img width="762" alt="Screenshot 2023-01-31 at 16 51 23" src="https://user-images.githubusercontent.com/124059871/215793856-5ba53475-e002-4e41-874a-e8868b88c96b.png">
 
-I know it's looking kinda "beginnerish" but right now I'm trying go expand my experience and to learn more.
+I know it's looking kinda "beginnerish" but right now I'm trying go expand my experience and to learn more. I am interested in developing my skills in Power Bi, developing my presentation skills and making dashboards and why not I would like to perform those even in Tableau.
